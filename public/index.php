@@ -17,4 +17,5 @@ switch ($_SERVER['PATH_INFO']) {
     default:
         echo "Erro 404";
         break;
+        
 }
